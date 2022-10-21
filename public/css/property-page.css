@@ -1,0 +1,23 @@
+.header-row{
+    margin:20px 0 20px 0;
+}
+.summary-head-row{
+    height: 70px;
+    text-align: center;
+    vertical-align: 50%;
+}
+
+.summary-cell{
+    text-align: center;
+    vertical-align: center;
+}
+
+.success-message{
+    text-align: center;
+}
+
+.required:after {
+    content: '*';
+    color: red;
+    padding-left: 5px;
+}
