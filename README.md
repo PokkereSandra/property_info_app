@@ -15,5 +15,9 @@ Small data retrieve program, containing persons and properties. Possible to add,
 - php artisan key:generate
 - php artisan serve
 
-####summary view
+#### Summary view
 ![summary](https://user-images.githubusercontent.com/102672847/197256542-b3a1406e-0e9e-4d2d-aa5e-6f3452ccb8c4.jpg)
+#### Persons' view
+![persons](https://user-images.githubusercontent.com/102672847/197256814-5cf2af3b-f880-4ef4-bf6d-8d20763fc6f4.jpg)
+#### Add person view
+![add](https://user-images.githubusercontent.com/102672847/197256818-940acfa6-284a-4499-9c5a-c658e3490acc.jpg)
