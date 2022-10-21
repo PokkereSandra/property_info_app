@@ -14,3 +14,6 @@ Small data retrieve program, containing persons and properties. Possible to add,
 - php artisan db:seed (to add some fake persons with properties)
 - php artisan key:generate
 - php artisan serve
+
+####summary view
+![summary](https://user-images.githubusercontent.com/102672847/197256542-b3a1406e-0e9e-4d2d-aa5e-6f3452ccb8c4.jpg)
